@@ -438,3 +438,12 @@ def main(args):
 
 if __name__ == '__main__':
     main(args)
+$ git remote add origin https://github.com/USER/REPO>.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/USER/REPO.git (fetch)
+> origin  https://github.com/USER/REPO.git (push)
+https://github.com/ameon0014/REPOSITORY.git
+
